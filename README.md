@@ -1,1 +1,2 @@
 # data_Taipei_house_price
+The purpose of this analysis is to compare the price trend of real estates between center area and outer area in Taipei city to see if there is any meaningful information. The definition of center area includes 5 districts of Zhong-Zheng, Zhong-Shan, Xin-Yi, Da-an, and Song-Shan districts. The outer area includes 7 districts of Shi-Lin, Nei-Hu, Nan-Gang, Wen-Shan, Wan-hua, Da-Tong, and Bei-tou districts. The data is provided by Ministry of interior administration, ROC.
